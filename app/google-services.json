@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "535282347844",
+    "firebase_url": "https://trainingfirebasewithtutorial.firebaseio.com",
+    "project_id": "trainingfirebasewithtutorial",
+    "storage_bucket": "trainingfirebasewithtutorial.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:535282347844:android:4498a90204053e82247111",
+        "android_client_info": {
+          "package_name": "com.kostya_zinoviev.trainingfirebasedb"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "535282347844-6liuqqpbca33hmahnqjekq4unidkt2c4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.kostya_zinoviev.trainingfirebasedb",
+            "certificate_hash": "66d8a1bf71642c2b94875d5602a7d5f65b1d70b7"
+          }
+        },
+        {
+          "client_id": "535282347844-vlhctec1tljg7ejiksjpvjan2j5mkkpg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDfwJSfQrbuId46CYjLDVrdANGTS_aE75Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "535282347844-vlhctec1tljg7ejiksjpvjan2j5mkkpg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
